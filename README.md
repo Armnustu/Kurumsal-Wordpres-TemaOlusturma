@@ -1,2 +1,2 @@
-# Kurumsal-Wordpres-Temas-Olu-turma
+# Kurumsal-Wordpres-Teması-Olusturma
 SIFIR TEMADAN WORDPRES KULLANARAK KURUMSAL SİTE OLUSTURMA
